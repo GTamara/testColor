@@ -1,0 +1,11 @@
+.pickedColorDiv{
+        width:50px;
+        height:50px;
+}
+
+.inlineBlockDi{
+        display:inline-block;
+        vertical-align:top;
+        margin-left:30px;
+}
+
